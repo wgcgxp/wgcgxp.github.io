@@ -2,6 +2,7 @@
 layout: single
 title: "China Macro Hedge"
 permalink: /MacroHedge/
+author_profile: true
 ---
 
 
