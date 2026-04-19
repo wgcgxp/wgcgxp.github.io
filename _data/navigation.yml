@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "World Power Index"
-    url: https://wgcgxp.github.io/
+    url: /
   - title: "CV"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: / #https://mmistakes.github.io/minimal-mistakes/about/
   - title: "China Micro Hedge"
-    url: /year-archive/
+    url: /MicroHedge/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
