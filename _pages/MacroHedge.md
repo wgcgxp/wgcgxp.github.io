@@ -1,13 +1,10 @@
-## ---
-## layout: home
-## author_profile: true
-## ---
-
 ---
-layout: page
-title: China Macro Hedge
+layout: single
+title: "China Macro Hedge"
 permalink: /MacroHedge/
 ---
+
+
 
 ## China Macro Hedge
 
