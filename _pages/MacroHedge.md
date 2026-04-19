@@ -5,11 +5,9 @@ permalink: /MacroHedge/
 author_profile: true
 ---
 
+## China Macro Hedge
 
-
-# China Macro Hedge
-
-Web is a web designing company
+Web is a web designing 
 .
 .
 .
