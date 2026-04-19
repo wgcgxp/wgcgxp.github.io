@@ -12,12 +12,12 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "catppuccin_latte", "catppuccin_mocha"
+minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "catppuccin_latte", "catppuccin_mocha"
 
 # Site Settings
 locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "World Power Index by Cong Wang"
+title                    : "World Power Index"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Cong Wang"
@@ -115,10 +115,10 @@ analytics:
 # Site Author
 author:
   name             : "Cong Wang"
-  avatar           : "/assets/site_img/Cong Wang USA Style.PNG"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/site_img/default_head.PNG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "My name is Cong Wang. I was an international student in US in 2010. I worked as a market marker trader in China. Now I live in USA."
   location         : "Fullerton, CA"
-  email            :
+  email            : "wgcgxp@hotmail.com
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
@@ -126,7 +126,7 @@ author:
       url: "mailto:wgcgxp@hotmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://worldpowerindex.net"
     - label: "Twitter"
       icon: "fab fa-fw fa-square-x-twitter"
       # url: "https://twitter.com/"
