@@ -116,7 +116,7 @@ analytics:
 author:
   name             : "Cong Wang"
   avatar           : "/assets/site_img/default_head.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm Cong Wang. I was an international student in US in 2010. I returned to China and worked as a market marker traders. Now I live in USA."
+  bio              : "I was an international student in US in 2010. I returned to China and worked as a market maker trader. Now I live in USA."
   location         : "Fullerton, CA"
   email            : "wgcgxp@hotmail.com"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
