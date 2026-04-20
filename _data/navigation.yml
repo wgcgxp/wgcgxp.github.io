@@ -2,11 +2,11 @@
 main:
   - title: "World Power Index"
     url: /
-  - title: "CV"
-    url: https://github.com/wgcgxp/
   - title: "China Macro Hedge"
     url: /MacroHedge/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "About me"
+    url: /Aboutme/
+  - title: "CV"
+    url: https://github.com/wgcgxp/
   # - title: "Sitemap"
   #   url: /sitemap/
